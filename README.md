@@ -30,6 +30,11 @@ TBD
 
 ## Linux
 
-**TBD**
+1. Open command prompt
+2. Open directory where "make-me-available.sh" exists
+3. Use the following command to execute
 
-Instructions and script for Linux will be provided soon.
+```cmd
+bash make-me-available.sh &
+```
+
