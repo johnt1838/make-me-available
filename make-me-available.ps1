@@ -11,7 +11,6 @@ while ($true) {
         $Error[0] | Out-file -FilePath $logFile -Append
     }
 
-
     Start-Sleep -Seconds 20
 }
 
